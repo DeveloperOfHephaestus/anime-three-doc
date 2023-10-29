@@ -1,0 +1,19 @@
+{
+  "name": "anime-three-documentation",
+  "version": "1.0.0",
+  "description": "anime three documentation . ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anime",
+    "js",
+    "three",
+    "js",
+    "3d",
+    "content"
+  ],
+  "author": "Saif-ur-Rehman",
+  "license": "ISC"
+}
